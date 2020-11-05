@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://szczepix.dev/">Blog</a> •
   <a href="https://twitter.com/szczepixdev">Twitter</a> •
-  <a href="https://www.linkedin.com/in/bartoszpelikan/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/szczepix/">Linkedin</a> •
   <a href="https://gitlab.com/szczepix">GitLab</a>
 </p>
 
