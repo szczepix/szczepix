@@ -9,19 +9,25 @@
 
 ---
 
-- 👨‍💻 Junior DevOps Engineer at PCG Academia
+- 👨‍💻 Senior DevOps Engineer at Connected Innovations
 - 💫 DevOps Enthusiast
 - 😍 Love learning new technologies
+- 👨‍🚒 Volunteer Firefighter
 - 📰 Ocassionally [bloging](https://szczepix.dev/)
 - 🤗 Dream of working with everything automated
-- 👨‍🎓 Student at [University of Information Technology and Management in Rzeszow](https://en.uitm.edu.eu)
 - 🤯 Learning: [Pluralsight](https://app.pluralsight.com/profile/szczepix), [Microsoft Learn](https://docs.microsoft.com/en-us/users/szczepix/)
 
+---
+
 <a href="https://github.com/szczepix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=szczepix&count_private=true&show_icons=true&theme=prussian " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szczepix&layout=compact&theme=prussian" />
 </a>
+
+<br>
+<br>
+
 <a href="https://github.com/szczepix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szczepix&layout=compact&theme=prussian " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=szczepix&count_private=true&show_icons=true&theme=prussian" />
 </a>
 
 <!--
